@@ -20,3 +20,5 @@ export function App() {
     </ThemeProvider>
   )
 }
+
+// <!-- CORREÇÃO DA ORTOGRAFIA -->
